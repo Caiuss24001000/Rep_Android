@@ -1,0 +1,2 @@
+Esto es un archivo creado por linea de comandos 
+Esta es una modificación al archivo 
